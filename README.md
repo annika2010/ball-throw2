@@ -1,1 +1,1 @@
-# ball-throw2
+# CP-2
